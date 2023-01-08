@@ -4,8 +4,8 @@
 # *in this readme file you will find a delployed SMART CONTRACT. WAHOOO!* #
 ![wagie](Execution_Results/mc_wagie.png)
 
-## **Transaction**
-![transaction](Images/transaction_success.png)
+## **Updating Address**
+![transaction](Execution_Results/function_update_address.png)
 
 ## **Transaction Ganache**
 
