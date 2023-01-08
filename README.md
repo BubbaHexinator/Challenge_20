@@ -7,6 +7,9 @@
 ## **Updating Address**
 ![transaction](Execution_Results/function_update_address.png)
 
-## **Transaction Ganache**
-
-![transaction ganache](Images/transaction.png)
+## **Purchasing 1 Ether as Wei**
+![One Ether as Wei](Execution_Results/one_ether_aswei.png)
+## **Purchasing 10 Ether as Wei**
+![Ten Ether](Execution_Results/ten_ether_aswei.png)
+## **Purchasing 1 Ether **
+![One Ether](Execution_Results/one_ether.png)
